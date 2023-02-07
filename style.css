@@ -1,0 +1,34 @@
+.czerwony {
+    height: 150px;
+    width: 150px;
+    background-color: red;
+    margin:auto;
+    transition: all 2s ease-in
+}
+
+.czerwony:hover {
+    width: 300px;
+}
+
+.niebieski {
+    height: 150px;
+    width: 150px;
+    background-color: blue;
+    margin:auto;
+    transition:all 2s ease-in;
+}
+.niebieski:hover {
+    height: 300px;
+}
+
+.zielony {
+    height: 150px;
+    width: 150px;
+    background-color: green;
+    margin: auto;
+    transition: all 2s ease-in;
+}
+.zielony:hover {
+    height: 300px;
+    width: 300px;
+}
